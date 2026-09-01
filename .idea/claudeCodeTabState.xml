@@ -7,10 +7,11 @@
           <value>
             <TabSessionState>
               <option name="provider" value="claude" />
-              <option name="sessionId" value="3a9474c3-e3ae-4b91-97a0-098418c79175" />
+              <option name="sessionId" value="b5f08e75-ca13-4abb-9c29-b91fb097397c" />
               <option name="cwd" value="D:\CODE\JavaBasicSyntax" />
               <option name="model" value="claude-opus-4-8[1m]" />
               <option name="permissionMode" value="acceptEdits" />
+              <option name="reasoningEffort" value="medium" />
             </TabSessionState>
           </value>
         </entry>
