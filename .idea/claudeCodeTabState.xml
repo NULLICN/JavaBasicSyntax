@@ -7,11 +7,10 @@
           <value>
             <TabSessionState>
               <option name="provider" value="claude" />
-              <option name="sessionId" value="72019fa1-2489-4777-82e6-06fd8c8ddefe" />
-              <option name="cwd" value="$PROJECT_DIR$" />
-              <option name="model" value="claude-sonnet-4-6[1m]" />
+              <option name="sessionId" value="3a9474c3-e3ae-4b91-97a0-098418c79175" />
+              <option name="cwd" value="D:\CODE\JavaBasicSyntax" />
+              <option name="model" value="claude-opus-4-8[1m]" />
               <option name="permissionMode" value="acceptEdits" />
-              <option name="reasoningEffort" value="high" />
             </TabSessionState>
           </value>
         </entry>
